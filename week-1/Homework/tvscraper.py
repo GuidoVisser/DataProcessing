@@ -6,7 +6,7 @@ This script scrapes IMDB and outputs a CSV file with highest rated tv series.
 '''
 import csv
 
-from pattern.web import URL, DOM, plaintext, Node, Element
+from pattern.web import URL, DOM, plaintext, Element
 import unicodedata
 
 TARGET_URL = "http://www.imdb.com/search/title?num_votes=5000,&sort=user_rating,desc&start=1&title_type=tv_series"
