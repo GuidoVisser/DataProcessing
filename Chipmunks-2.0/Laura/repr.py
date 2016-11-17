@@ -19,7 +19,7 @@ def MakeBoard2D():
     # np.zeros fills the specified matrix with zero's on all points
     width = 17
     height = 12
-    board = np.zeros((height, width))
+    board = np.zeros((height+1,width+1))
     # these are all the chips for print#1
     board[1][1] = 1
     board[1][6] = 2
@@ -46,6 +46,6 @@ def MakeBoard2D():
     board[10][9] = 23
     board[11][1] = 24
     board[11][12] = 25
-    print board
+    print(np.matrix(board))
 
 MakeBoard2D()
