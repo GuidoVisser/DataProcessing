@@ -1,0 +1,30 @@
+/************************
+Guido Visser
+10199187
+************************/
+
+.bar {
+  fill: darkcyan;
+}
+
+.bar:hover {
+  fill: darkgreen;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.d3-tip {
+    position: absolute;
+    text-align: center;
+    color: white;
+    width: 80px;
+    height: 30px;
+    padding: 2px;
+    font: 12px calibri;
+    background: darkgreen;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}

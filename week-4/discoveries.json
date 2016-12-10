@@ -1,0 +1,502 @@
+[
+    {
+        "": "1", 
+        "discoveries": "5", 
+        "time": "1860"
+    }, 
+    {
+        "": "2", 
+        "discoveries": "3", 
+        "time": "1861"
+    }, 
+    {
+        "": "3", 
+        "discoveries": "0", 
+        "time": "1862"
+    }, 
+    {
+        "": "4", 
+        "discoveries": "2", 
+        "time": "1863"
+    }, 
+    {
+        "": "5", 
+        "discoveries": "0", 
+        "time": "1864"
+    }, 
+    {
+        "": "6", 
+        "discoveries": "3", 
+        "time": "1865"
+    }, 
+    {
+        "": "7", 
+        "discoveries": "2", 
+        "time": "1866"
+    }, 
+    {
+        "": "8", 
+        "discoveries": "3", 
+        "time": "1867"
+    }, 
+    {
+        "": "9", 
+        "discoveries": "6", 
+        "time": "1868"
+    }, 
+    {
+        "": "10", 
+        "discoveries": "1", 
+        "time": "1869"
+    }, 
+    {
+        "": "11", 
+        "discoveries": "2", 
+        "time": "1870"
+    }, 
+    {
+        "": "12", 
+        "discoveries": "1", 
+        "time": "1871"
+    }, 
+    {
+        "": "13", 
+        "discoveries": "2", 
+        "time": "1872"
+    }, 
+    {
+        "": "14", 
+        "discoveries": "1", 
+        "time": "1873"
+    }, 
+    {
+        "": "15", 
+        "discoveries": "3", 
+        "time": "1874"
+    }, 
+    {
+        "": "16", 
+        "discoveries": "3", 
+        "time": "1875"
+    }, 
+    {
+        "": "17", 
+        "discoveries": "3", 
+        "time": "1876"
+    }, 
+    {
+        "": "18", 
+        "discoveries": "5", 
+        "time": "1877"
+    }, 
+    {
+        "": "19", 
+        "discoveries": "2", 
+        "time": "1878"
+    }, 
+    {
+        "": "20", 
+        "discoveries": "4", 
+        "time": "1879"
+    }, 
+    {
+        "": "21", 
+        "discoveries": "4", 
+        "time": "1880"
+    }, 
+    {
+        "": "22", 
+        "discoveries": "0", 
+        "time": "1881"
+    }, 
+    {
+        "": "23", 
+        "discoveries": "2", 
+        "time": "1882"
+    }, 
+    {
+        "": "24", 
+        "discoveries": "3", 
+        "time": "1883"
+    }, 
+    {
+        "": "25", 
+        "discoveries": "7", 
+        "time": "1884"
+    }, 
+    {
+        "": "26", 
+        "discoveries": "12", 
+        "time": "1885"
+    }, 
+    {
+        "": "27", 
+        "discoveries": "3", 
+        "time": "1886"
+    }, 
+    {
+        "": "28", 
+        "discoveries": "10", 
+        "time": "1887"
+    }, 
+    {
+        "": "29", 
+        "discoveries": "9", 
+        "time": "1888"
+    }, 
+    {
+        "": "30", 
+        "discoveries": "2", 
+        "time": "1889"
+    }, 
+    {
+        "": "31", 
+        "discoveries": "3", 
+        "time": "1890"
+    }, 
+    {
+        "": "32", 
+        "discoveries": "7", 
+        "time": "1891"
+    }, 
+    {
+        "": "33", 
+        "discoveries": "7", 
+        "time": "1892"
+    }, 
+    {
+        "": "34", 
+        "discoveries": "2", 
+        "time": "1893"
+    }, 
+    {
+        "": "35", 
+        "discoveries": "3", 
+        "time": "1894"
+    }, 
+    {
+        "": "36", 
+        "discoveries": "3", 
+        "time": "1895"
+    }, 
+    {
+        "": "37", 
+        "discoveries": "6", 
+        "time": "1896"
+    }, 
+    {
+        "": "38", 
+        "discoveries": "2", 
+        "time": "1897"
+    }, 
+    {
+        "": "39", 
+        "discoveries": "4", 
+        "time": "1898"
+    }, 
+    {
+        "": "40", 
+        "discoveries": "3", 
+        "time": "1899"
+    }, 
+    {
+        "": "41", 
+        "discoveries": "5", 
+        "time": "1900"
+    }, 
+    {
+        "": "42", 
+        "discoveries": "2", 
+        "time": "1901"
+    }, 
+    {
+        "": "43", 
+        "discoveries": "2", 
+        "time": "1902"
+    }, 
+    {
+        "": "44", 
+        "discoveries": "4", 
+        "time": "1903"
+    }, 
+    {
+        "": "45", 
+        "discoveries": "0", 
+        "time": "1904"
+    }, 
+    {
+        "": "46", 
+        "discoveries": "4", 
+        "time": "1905"
+    }, 
+    {
+        "": "47", 
+        "discoveries": "2", 
+        "time": "1906"
+    }, 
+    {
+        "": "48", 
+        "discoveries": "5", 
+        "time": "1907"
+    }, 
+    {
+        "": "49", 
+        "discoveries": "2", 
+        "time": "1908"
+    }, 
+    {
+        "": "50", 
+        "discoveries": "3", 
+        "time": "1909"
+    }, 
+    {
+        "": "51", 
+        "discoveries": "3", 
+        "time": "1910"
+    }, 
+    {
+        "": "52", 
+        "discoveries": "6", 
+        "time": "1911"
+    }, 
+    {
+        "": "53", 
+        "discoveries": "5", 
+        "time": "1912"
+    }, 
+    {
+        "": "54", 
+        "discoveries": "8", 
+        "time": "1913"
+    }, 
+    {
+        "": "55", 
+        "discoveries": "3", 
+        "time": "1914"
+    }, 
+    {
+        "": "56", 
+        "discoveries": "6", 
+        "time": "1915"
+    }, 
+    {
+        "": "57", 
+        "discoveries": "6", 
+        "time": "1916"
+    }, 
+    {
+        "": "58", 
+        "discoveries": "0", 
+        "time": "1917"
+    }, 
+    {
+        "": "59", 
+        "discoveries": "5", 
+        "time": "1918"
+    }, 
+    {
+        "": "60", 
+        "discoveries": "2", 
+        "time": "1919"
+    }, 
+    {
+        "": "61", 
+        "discoveries": "2", 
+        "time": "1920"
+    }, 
+    {
+        "": "62", 
+        "discoveries": "2", 
+        "time": "1921"
+    }, 
+    {
+        "": "63", 
+        "discoveries": "6", 
+        "time": "1922"
+    }, 
+    {
+        "": "64", 
+        "discoveries": "3", 
+        "time": "1923"
+    }, 
+    {
+        "": "65", 
+        "discoveries": "4", 
+        "time": "1924"
+    }, 
+    {
+        "": "66", 
+        "discoveries": "4", 
+        "time": "1925"
+    }, 
+    {
+        "": "67", 
+        "discoveries": "2", 
+        "time": "1926"
+    }, 
+    {
+        "": "68", 
+        "discoveries": "2", 
+        "time": "1927"
+    }, 
+    {
+        "": "69", 
+        "discoveries": "4", 
+        "time": "1928"
+    }, 
+    {
+        "": "70", 
+        "discoveries": "7", 
+        "time": "1929"
+    }, 
+    {
+        "": "71", 
+        "discoveries": "5", 
+        "time": "1930"
+    }, 
+    {
+        "": "72", 
+        "discoveries": "3", 
+        "time": "1931"
+    }, 
+    {
+        "": "73", 
+        "discoveries": "3", 
+        "time": "1932"
+    }, 
+    {
+        "": "74", 
+        "discoveries": "0", 
+        "time": "1933"
+    }, 
+    {
+        "": "75", 
+        "discoveries": "2", 
+        "time": "1934"
+    }, 
+    {
+        "": "76", 
+        "discoveries": "2", 
+        "time": "1935"
+    }, 
+    {
+        "": "77", 
+        "discoveries": "2", 
+        "time": "1936"
+    }, 
+    {
+        "": "78", 
+        "discoveries": "1", 
+        "time": "1937"
+    }, 
+    {
+        "": "79", 
+        "discoveries": "3", 
+        "time": "1938"
+    }, 
+    {
+        "": "80", 
+        "discoveries": "4", 
+        "time": "1939"
+    }, 
+    {
+        "": "81", 
+        "discoveries": "2", 
+        "time": "1940"
+    }, 
+    {
+        "": "82", 
+        "discoveries": "2", 
+        "time": "1941"
+    }, 
+    {
+        "": "83", 
+        "discoveries": "1", 
+        "time": "1942"
+    }, 
+    {
+        "": "84", 
+        "discoveries": "1", 
+        "time": "1943"
+    }, 
+    {
+        "": "85", 
+        "discoveries": "1", 
+        "time": "1944"
+    }, 
+    {
+        "": "86", 
+        "discoveries": "2", 
+        "time": "1945"
+    }, 
+    {
+        "": "87", 
+        "discoveries": "1", 
+        "time": "1946"
+    }, 
+    {
+        "": "88", 
+        "discoveries": "4", 
+        "time": "1947"
+    }, 
+    {
+        "": "89", 
+        "discoveries": "4", 
+        "time": "1948"
+    }, 
+    {
+        "": "90", 
+        "discoveries": "3", 
+        "time": "1949"
+    }, 
+    {
+        "": "91", 
+        "discoveries": "2", 
+        "time": "1950"
+    }, 
+    {
+        "": "92", 
+        "discoveries": "1", 
+        "time": "1951"
+    }, 
+    {
+        "": "93", 
+        "discoveries": "4", 
+        "time": "1952"
+    }, 
+    {
+        "": "94", 
+        "discoveries": "1", 
+        "time": "1953"
+    }, 
+    {
+        "": "95", 
+        "discoveries": "1", 
+        "time": "1954"
+    }, 
+    {
+        "": "96", 
+        "discoveries": "1", 
+        "time": "1955"
+    }, 
+    {
+        "": "97", 
+        "discoveries": "0", 
+        "time": "1956"
+    }, 
+    {
+        "": "98", 
+        "discoveries": "0", 
+        "time": "1957"
+    }, 
+    {
+        "": "99", 
+        "discoveries": "2", 
+        "time": "1958"
+    }, 
+    {
+        "": "100", 
+        "discoveries": "0", 
+        "time": "1959"
+    }
+]
