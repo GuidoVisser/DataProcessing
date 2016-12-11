@@ -1,0 +1,32 @@
+/************************
+Guido Visser
+10199187
+************************/
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: darkcyan;
+  stroke-width: 1.3px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: none;
+  stroke: black;
+  stroke-width: 2px;
+}
