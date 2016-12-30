@@ -1,2 +1,0 @@
-Een branch is een aftakking van de masterbranch waarin je aan je files kunt werken zonder dat de masterbranche veranderd wordt.
-Als je commit en pushed wordt je werk gesynchroniseerd met de masterbranch.
